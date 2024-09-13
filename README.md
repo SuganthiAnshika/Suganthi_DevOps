@@ -1,1 +1,6 @@
-# Suganthi_DevOps
+# Suganthi-DevOps
+
+- 👋 Hi, I’m @SuganthiAnshika
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+  
